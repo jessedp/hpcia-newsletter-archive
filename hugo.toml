@@ -1,4 +1,4 @@
-publishDir: docs
+publishDir = 'docs'
 baseURL = 'https://jessedp.github.io/hpcia-newsletter-archive/'
 languageCode = 'en-us'
 title = 'HPCIA Newsletter Archive'
