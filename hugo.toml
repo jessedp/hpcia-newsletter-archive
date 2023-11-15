@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'HPCIA Newsletter Archive'
+theme = 'ink-free'
+
+
+[params]
+
+    avatar = "/HomePark_Horz_v1_rgb.png"
+	subtitle = "Assorted HPCIA Newsletters from 1986 - 1991"
+
+    featherIconsCDN = false
+
+	# Site color - dark/light/auto
+	mode = "light"
+
+    # Max tags
+	maxTags = 7
+
+    # Define words per minute to approximate reading time
+	wpm = 250
+
