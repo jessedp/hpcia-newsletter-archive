@@ -1,5 +1,5 @@
 publishDir: docs
-baseURL = 'https://example.org/'
+baseURL = 'https://jessedp.github.io/hpcia-newsletter-archive/'
 languageCode = 'en-us'
 title = 'HPCIA Newsletter Archive'
 theme = 'ink-free'
