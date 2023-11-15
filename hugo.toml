@@ -6,7 +6,8 @@ theme = 'ink-free'
 
 [params]
 
-    avatar = "/HomePark_Horz_v1_rgb.png"
+    avatar = "/hpcia-newsletter-archive/HomePark_Horz_v1_rgb.png"
+    favicon = "/hpcia-newsletter-archive/favicon.ico"
 	subtitle = "Assorted HPCIA Newsletters from 1986 - 1991"
 
     featherIconsCDN = false
