@@ -36,10 +36,3 @@ weight = 2
 name = "About"
 url = "/about"
 weight = 3
-
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/jessedp/hpcia-newsletter-archive/"
-
