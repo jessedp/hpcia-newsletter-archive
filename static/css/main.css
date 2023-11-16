@@ -4,6 +4,7 @@ body {
     color: #333;
     line-height: 1.8em;
     font-size: 17px;
+    background-color: #eceff1;
 }
 
 a {
@@ -363,6 +364,19 @@ ul {
     margin-bottom: 20px;
 }
 
+.day {
+    line-height: 2em;
+    font-weight: 100;
+    display: none;
+    font-size: 3em;
+    color: transparent;
+    background-image: url(/hpcia-newsletter-archive/favicon.ico);
+    background-size: 100% 100%;
+    margin-bottom: 0;
+    height: 64px;
+}
+
+
 .post-header .meta .date .rest {
     display: block;
     font-size: 0.75em;
@@ -599,13 +613,13 @@ nav {
 
 .section-nav a {
     text-decoration: none;
-    display: block;
-    color: #ccc;
+    display: inline;
+    color: #601442;
     transition: all 50ms ease-in-out;
 }
 
 .section-nav li::marker {
-    color: #ccc;
+    color: #601442;
 }
 
 .section-nav a:hover,
