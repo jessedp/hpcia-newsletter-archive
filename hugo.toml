@@ -21,3 +21,25 @@ theme = 'ink-free'
     # Define words per minute to approximate reading time
 	wpm = 250
 
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+
+[[menu.main]]
+name = "HomePark.org"
+url = "https://homepark.org"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/jessedp/hpcia-newsletter-archive/"
+
